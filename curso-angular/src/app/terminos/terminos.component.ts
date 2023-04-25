@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 export class TerminosComponent {
   imageUrl = "https://www.corenetworks.es/wp-content/uploads/2017/01/certificaciones_corenetworks.png";
   url = "https://www.corenetworks.es/"
+  color = "blue";
 }
