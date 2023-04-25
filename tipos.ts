@@ -107,15 +107,13 @@ const resultado4 = getResultado<number>(9.9);
 
 type _id = string | number; // Los tipos _id podrán tener string o number
 //1 Declarar
-let referencia: _id =123;
+let referencia: _id = 123;
 
 //2 Asignar
 referencia = "0000234";
 // referencia = false;
 
 //3 Calculos y ejecución
-
-
 
 // Tipos de unión compleja (valores que podrán tener las variables con ese tipo)
 
